@@ -68,7 +68,7 @@ In this lab, you will:
 
     ![Azure Tenant Name - odsademo](./images/task1/odsademo.png)
 
-5. Agreed to have read the terms of Linking Azure and Oracle Cloud accounts by Acept them and click continue.
+5. Agree and accept the terms of Linking Azure and Oracle Cloud accounts and click continue.
 
     ![T & Cs](./images/task1/tcs.png)
 
@@ -82,7 +82,7 @@ In this lab, you will:
 ## Acknowledgements
 * **Author** - Priscila Iruela, Technology Product Strategy Director
 * **Contributors** - Victor Martin Alvarez, Technology Product Strategy Director
-* **Last Updated By/Date** - Priscila Iruela, August 2022
+* **Last Updated By/Date** - Priscila Iruela, September 2022
 
 ## Need Help?
 Please submit feedback or ask for help using our [LiveLabs Support Forum](https://community.oracle.com/tech/developers/categories/livelabsdiscussions). Please click the **Log In** button and login using your Oracle Account. Click the **Ask A Question** button to the left to start a *New Discussion* or *Ask a Question*.  Please include your workshop name and lab name.  You can also include screenshots and attach files.  Engage directly with the author of the workshop.

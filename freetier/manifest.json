@@ -26,8 +26,8 @@
             "filename": "./../../databaseactions/databaseactions.md"
         },
         {
-            "title": "Lab 4: Clean Up",
-            "description": "In this Lab you will have the steps to remove the services that we created for the workshop.",
+            "title": "Lab 4: Clean Up (Optional)",
+            "description": "In this Lab you will have the steps to terminate the services that we created for the workshop.",
             "filename": "./../../cleanup/cleanup.md"
         },
         {
