@@ -1,35 +1,35 @@
 {
     "workshoptitle": "Oracle Databade Service for Azure",
     "tutorials": [
-                {
+        {
             "title": "Introduction",
             "description": "Introduction of the workshop.",
-            "filename": "./../../intro/intro.md"
+            "filename": "../intro/intro.md"
         },
           {
             "title": "Lab 1: Account Set Up",
             "description": "In this Lab you will access to the Microsoft Azure Portal and set up your account.",
-            "filename": "./../../accountsetup/accountsetup.md"
+            "filename": "../accountsetup/accountsetup.md"
         },
         {
             "title": "Lab 2: Oracle Autonomous Database Provisioning",
             "description": "In this Lab you will create the Oracle Autonomous Database throught the Azure Portal.",
-            "filename": "./../../adb/adb.md"
+            "filename": "../adb/adb.md"
         },
         {
             "title": "Lab 3: Overview and Tags Dashboards",
             "description": "In this Lab you will cover every functionlaity under Overview and Tags dashboard.",
-            "filename": "./../../overview-tags/overview-tags.md"
+            "filename": "../overview-tags/overview-tags.md"
         },
         {
             "title": "Lab 4: Networking Dashboards",
             "description": "In this Lab you will cover the Networking dashboard.",
-            "filename": "./../../networking/networking.md"
+            "filename": "../networking/networking.md"
         },
         {
             "title": "Lab 5: Backups Dashboards",
             "description": "In this Lab you will cover the Backups dashboard.",
-            "filename": "./../../backups/backups.md"
+            "filename": "../backups/backups.md"
         },
         {
             "title": "Need Help?",
