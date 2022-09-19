@@ -37,15 +37,15 @@ In this lab, you will:
 
 ## Task 1: Provision Autonomoud Database (ADB)
 
-1. Login to Azure ODSA Portal: [signup.multicloud.oracle.com/azure](https://signup.multicloud.oracle.com/azure)
+1. Login to **Azure ODSA Portal**: [signup.multicloud.oracle.com/azure](https://signup.multicloud.oracle.com/azure)
 
     ![ODSA Portal Dashboard](./images/task1/odsa-portal-dashboard.png)
 
-2. We can see on the ODSA Dashboard the three database versions that we can provision. Click on Autonomous Database
+2. We can see on the ODSA Dashboard the three database versions that we can provision. Click on **Autonomous Database**.
 
     ![ODSA Portal Dashboard - ADB](./images/task1/odsa-portal-dashboard-adb.png)
 
-3. Click on **+ Create** bottom.
+3. Click on **+ Create** button.
 
     ![ADB Create](./images/task1/adb-create.png)
 
@@ -115,7 +115,12 @@ In this lab, you will:
     ![ADB Create Validation](./images/task1/adb-validation.png)
     ![ADB Create Validation Create](./images/task1/adb-validation-create.png)
 
-10. Your **Autonomous Warehouse Database** has been created. **Congrats!** Be sure you have selected the location where you created the database. In out case **Germany West Central**.
+10. Your **Autonomous Warehouse Database** is being **provisioning** and after a few minutes, it will be **active** and ready to use.
+
+    ![ADB Create Provisioning](./images/task1/adb-provisioning.png)
+    ![ADB Create Active](./images/task1/adb-active.png)
+
+11. Your **Autonomous Warehouse Database** has been created. **Congrats!** Be sure you have selected the location where you created the database. In out case **Germany West Central**.
 
     ![ADB Created](./images/task1/adb-created.png)
 

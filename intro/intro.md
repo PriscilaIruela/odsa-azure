@@ -18,13 +18,15 @@ The service establishes low-latency connectivity between Microsoft Azure and OCI
 
 - **OCI-exclusive database capabilities**. Use Oracle's Autonomous Database, Exadata Database Service, and Base Database Service with Real Application Clusters and other exclusive OCI capabilities.
 
-This workshop has five parts:
+This workshop has the following parts:
 
 - Introduction
 - Getting Started
 - Account Set Up
 - Oracle Autonomous Database Provisioning
-- Oracle Database Actions
+- Overview and Tags
+- Networking
+- Backups
 
 
 **Estimated Workshop Time: 60 minutes.**
@@ -36,12 +38,13 @@ In this lab, you will:
 * Access to Microsoft Azure Portal
 * Sync the Microsoft Azure account with Oracle Cloud Infrastructure
 * Provision Oracle Autonomous Database
-* Use Oracle Autonomous Database using the Azure Portal
-
+* Learn Overview and Tags dashboard
+* Learn Networking dashboard
+* Learn Backups dashboard
 
 ## Prerequisites
 
-* [An Oracle Free Tier](https://bit.ly/free-tier-1207), Always Free, Paid or LiveLabs Cloud Account - You can check Getting Started section for more information.
+* [An Oracle Free Tier](https://bit.ly/free-tier-1207), Always Free, Paid or LiveLabs Cloud Account.
 * Microsoft Azure account
 
 Here is a video to help with the Oracle Trial Sign Up Process:

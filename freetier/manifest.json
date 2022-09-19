@@ -7,10 +7,6 @@
             "filename": "./../../intro/intro.md"
         },
           {
-            "title": "Getting Started",
-             "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account.md"
-          },
-          {
             "title": "Lab 1: Account Set Up",
             "description": "In this Lab you will access to the Microsoft Azure Portal and set up your account.",
             "filename": "./../../accountsetup/accountsetup.md"
@@ -21,14 +17,19 @@
             "filename": "./../../adb/adb.md"
         },
         {
-            "title": "Lab 3: Oracle Database Actions",
-            "description": "In this Lab you will access to Oracle Database Actions.",
-            "filename": "./../../databaseactions/databaseactions.md"
+            "title": "Lab 3: Overview and Tags Dashboards",
+            "description": "In this Lab you will cover every functionlaity under Overview and Tags dashboard.",
+            "filename": "./../../overview-tags/overview-tags.md"
         },
         {
-            "title": "Lab 4: Clean Up (Optional)",
-            "description": "In this Lab you will have the steps to terminate the services that we created for the workshop.",
-            "filename": "./../../cleanup/cleanup.md"
+            "title": "Lab 4: Networking Dashboards",
+            "description": "In this Lab you will cover the Networking dashboard.",
+            "filename": "./../../networking/networking.md"
+        },
+        {
+            "title": "Lab 5: Backups Dashboards",
+            "description": "In this Lab you will cover the Backups dashboard.",
+            "filename": "./../../backups/backups.md"
         },
         {
             "title": "Need Help?",
